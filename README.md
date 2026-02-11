@@ -27,4 +27,4 @@ Built with a **Security-First** mindset, this tool uses a custom middleware laye
 ## 🚀 How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/secure-resume-ai.git](https://github.com/YOUR_USERNAME/secure-resume-ai.git)
+   git clone [https://github.com/YOUR_USERNAME/secure-resume-ai.git](https://github.com/YOUR_USERNAME/secure-resume-ai.git)# secure-resume-ai
