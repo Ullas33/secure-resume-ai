@@ -13,7 +13,7 @@ Built with a **Security-First** mindset, this tool uses a custom middleware laye
 ## 🛠️ Tech Stack
 - **Language:** Python 3.10+
 - **Frontend/UI:** Streamlit
-- **AI Engine:** Google Gemini 1.5 Flash (via Generative AI API)
+- **AI Engine:** Google Gemini 1.5 Flash (via Generative AI API)[use your own API in secrets.toml file]
 - **Security:** Custom Python Middleware (RegEx)
 - **Parsing:** PyPDF2
 
